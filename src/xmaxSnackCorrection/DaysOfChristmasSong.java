@@ -1,4 +1,4 @@
-package xmasSnack;
+package xmaxSnackCorrection;
 
 public class DaysOfChristmasSong {
 

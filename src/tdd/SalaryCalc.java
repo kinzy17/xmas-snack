@@ -17,7 +17,6 @@ public class SalaryCalc {
             counter++;
 
 
-            int grossPay =
 
         }
 
