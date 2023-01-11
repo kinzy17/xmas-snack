@@ -1,4 +1,4 @@
-package xmasSnack;
+package xmaxSnackCorrection;
 
 import java.util.Scanner;
 

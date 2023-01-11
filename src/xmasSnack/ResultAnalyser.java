@@ -8,13 +8,12 @@ public class ResultAnalyser {
 
         int passes = 0;
         int failures = 0;
-        int result = 0;
         int counter = 1;
 
 
         while(counter <= 10){
             System.out.print("enter result (1 for passed and 2 for failed)");
-            counter = input.nextInt();
+            int result = input.nextInt();
 
             if(result == 1){
                 passes = passes + 1;
@@ -25,8 +24,8 @@ public class ResultAnalyser {
             counter++;
         }
 
-        System.out.println("passes: ");
-        System.out.println("failures: ");
+        System.out.println("passes: " + passes);
+        System.out.println("failures: " + failures);
 
         if (passes > 8) {
             System.out.println("Bonus for Grace");
@@ -35,4 +34,5 @@ public class ResultAnalyser {
         }
 
     }
+
 
