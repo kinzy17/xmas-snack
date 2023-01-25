@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/hangOn.iml" filepath="$PROJECT_DIR$/hangOn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hangOff/dietel/dietel.iml" filepath="$PROJECT_DIR$/../hangOff/dietel/dietel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hangOn.iml" filepath="$PROJECT_DIR$/.idea/hangOn.iml" />
     </modules>
   </component>
 </project>
